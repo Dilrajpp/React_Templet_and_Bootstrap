@@ -1,0 +1,327 @@
+/* Navbar */
+.navbar-expand-lg {
+    background-color: rgb(81, 148, 250);
+    border-radius: 1%;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 99%;
+    height: 74px;
+    padding-bottom: 2px;
+}
+
+
+.lunsjimgNav {
+    width: 60px;
+    margin-left: 3%;
+    margin-top: 4px;
+    float: left;
+}
+
+/* CSS for the body or any container of the banner */
+body {
+    width: 99%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+}
+
+.Digitalbanner {
+    width: 99%;
+    max-width: 1870px;
+    height: 515px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: rgb(254, 240, 240);
+    margin-top: 6px;
+    /* margin-left: 22px; */
+    
+
+}
+
+.ANew {
+    padding-top: 22%;
+}
+
+.AANew {
+    /* padding-top: 200px; */
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+
+.register {
+    text-align: center;
+    /* margin-top: 400px; */
+    margin-bottom: 30px;
+}
+
+/* Midsection */
+.cardMidmain {
+    width: 50% !important;
+    /* height: 700px; */
+    font-family: Arial, sans-serif;
+    /* border-radius: ; */
+    box-shadow: 3px 6px 10px 8px rgba(244, 211, 211, 0.08),
+
+}
+
+.cardMid {
+    /* width: 15%; */
+    height: 300px;
+    border-radius: 5px;
+
+}
+
+.cardMidimg {
+    width: 150px;
+    height:  150px;
+    background-attachment: none;
+    margin-left: 30%;
+
+    /* background-size: cover; */
+    /* margin-right: 20px; */
+}
+
+.card-text {
+    text-align: center;
+}
+
+.content1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    line-height: 85%;
+    letter-spacing: 1px;
+    text-align: center;
+    /* margin-top: 50px; */
+    padding-top: 20px;
+}
+
+
+.text-success1 {
+    text-shadow: #1d1c1c;
+    color: rgb(145, 194, 72);
+}
+
+.text-success12 {
+    text-shadow: #1d1c1c;
+    color: rgb(145, 194, 72);
+    outline: rgb(145, 194, 72);
+}
+
+.content3 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    /* margin-top: 50px; */
+    padding-top: 35px;
+}
+
+.content4 {
+    text-align: center;
+    margin-left: 46%;
+    margin-bottom: 10px;
+}
+/* location */
+
+/* .table1 {
+    margin-right: 500px;
+    padding-right: 200px;
+} */
+
+
+
+/* Symbol */
+
+.Symbol {
+    background-color: rgb(239, 249, 239);
+}
+.image_icon {
+    justify-self: center;
+    align-self: end;
+    width: 60px;
+    height: auto;
+    margin-right: 35px;
+    margin-left: 30px;
+    background-attachment: fixed;
+}
+
+.image {
+    justify-content: center;
+    justify-self: center;
+    margin-top: 80px;
+    margin-left: 30%;
+}
+
+.Read {
+    justify-content: center;
+    margin-top: 90px;
+    margin-bottom: 30px;
+    margin-left: 46%;
+    color: #1d1c1c;
+    background-color: rgb(142, 236, 142);
+}
+
+.location {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    line-height: 85%;
+    letter-spacing: -1px;
+    text-align: center;
+    /* margin-top: 50px; */
+    padding-top: 50px;
+}
+
+.table-borderless {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 0 auto; 
+    border: oldlace;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    line-height: 85%;
+    letter-spacing: -1px;
+    text-align: center;
+    /* margin-top: 50px; */
+    padding-top: 50px;
+    /* margin-left: 30px; */
+}
+
+
+/* Eatlove */
+
+.lunsjimg {
+    width: 50px;
+    margin-left: 3%;
+    margin-top: 3%;
+    float: left;
+}
+
+.lunsjheader {
+    margin-left: 15px;
+    margin-top: 9px;
+    padding-left: 10px;
+}
+
+/* .cardimghai {
+    box-shadow: -2px  2px 10px 4px rgba(178, 175, 175, 175);
+    width: 260px;
+    /* height: 310px; */
+    /* margin-left: 10%; 
+    position: absolute;
+} */
+
+.cardimghai1 {
+    box-shadow: -2px  2px 10px 4px rgba(178, 175, 175, 175);
+    border-radius: 0% 100% 3% 97% / 97% 16% 84% 3%   ;
+    width: 260px;
+    display: inline-block;
+    margin-left: 75%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.cardimghai2 {
+    box-shadow: -2px  2px 10px 4px rgba(178, 175, 175, 175);
+    border-radius: 11% 89% 0% 100% / 95% 0% 100% 5%   ;
+    width: 260px;
+    display: inline-block;
+    margin-left: 38%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* #eatlove {
+    font-size: 1.5em;
+    color: #ffc107;
+} */
+
+.cardimghai3 {
+    box-shadow: -2px  2px 10px 4px rgba(178, 175, 175, 175);
+    border-radius: 4% 96% 0% 100% / 92% 0% 100% 8%   ;
+    width: 260px;
+    display: inline-block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    
+}
+
+.cardMidmain1 {
+    width: 50% !important;
+    /* height: 700px; */
+    /* font-family: Arial, sans-serif; */
+    /* border-radius: ; */
+    /* box-shadow: 3px 6px 10px 8px rgba(244, 211, 211, 0.08), */
+    
+}
+
+/* Reviews */
+.bg-body-secondaryyes {
+    background-color:#f3f5ee
+}
+
+.dot {
+    margin-left: 23%;
+    /* margin-top: 0%; */
+    /* float: left; */
+}
+
+.cardimage1 {
+    box-shadow: -2px  2px 10px 4px rgba(178, 175, 175, 175);
+    border-radius: 0% 100% 2% 98% / 95% 0% 100% 5% ;
+    width: 64px;
+    margin-left: 29%;
+    margin-top: 2%;
+    float: left;
+}
+
+.cardimage2 {
+    box-shadow: -2px  2px 10px 4px rgba(178, 175, 175, 175);
+    border-radius: 0% 100% 2% 98% / 95% 0% 100% 5% ;
+    width: 64px;
+    margin-left: 51%;
+    margin-top: 11%;
+}
+
+/* .dot1 {
+    margin-left: 55%; */
+    /* margin-right: 5%; */
+    /* float: left;
+} */
+
+.table1 {
+    margin-right: 419px;
+}
+
+
+/* Footer */
+
+.image-size {
+    width: 150px;
+}
+
+.image-size2 {
+    width: 300px;
+}
+
+.form-templet-content {
+    /* background: gray; */
+    /* height: 400px;
+    width: 400px; */
+    position: relative;
+  }
+  
+  .form-templet {
+    box-shadow: -2px  2px 10px rgba(178, 175, 175, 0.3);
+    background: #1d1c1c ;
+    width: 280px;
+    height: 310px;
+    position: absolute;
+    left: 30%;
+    margin: -50px 0 0 -50px;
+  }
